@@ -1,0 +1,38 @@
+h1  { color: Red;}
+
+body{
+
+  background-color:#F9D371;
+}
+hr{
+
+  border-style: none;
+  border-top: dotted;
+  border-color: grey;
+  border-width=2px;
+  height:2px;
+  width:5%;
+}
+
+h1{
+
+    color: #4FBDBA;
+
+   }
+
+   h2{
+
+       color: #4FBDBA;
+
+      }
+      h3{
+
+        color: #4FBDBA;
+
+         }
+
+         img{
+
+             height:150px;
+
+            }
